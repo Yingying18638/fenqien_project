@@ -12,7 +12,7 @@ owe=[0]*n_pers
 # 先假設都是平分題
 bill=[]
 while True:
-    print("___付了＿＿項目＿＿元，＿＿分擔(輸入０停止)")
+    # print("___付了＿＿項目＿＿元，＿＿分擔(輸入０停止)")
     A=input()
     if A!='0':
     	bill.append(A.split())
