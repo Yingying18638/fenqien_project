@@ -1,0 +1,7 @@
+a b c d e
+a A 80 all
+b B 40 all
+c C 20 all
+d D 10 all
+e E 100 all
+0
